@@ -1,0 +1,35 @@
+<svg height="510" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="510" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-25 07:54:21 +0000   418553 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 07:54:21 +0000     7651 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 07:54:21 +0000    11357 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 07:54:21 +0000      407 bytes  NOTICE</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 07:54:21 +0000    13032 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 07:54:21 +0000     3401 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 07:54:21 +0000     4260 bytes  plugin.xml</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 07:54:21 +0000    43630 bytes  src/android/Sync.java</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 07:54:21 +0000      506 bytes  src/browser/Sync.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 07:54:21 +0000     2214 bytes  src/ios/ContentSync.h</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 07:54:21 +0000    35277 bytes  src/ios/ContentSync.m</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 07:54:21 +0000     1969 bytes  src/ios/SSZipArchive.h</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 07:54:21 +0000    19552 bytes  src/ios/SSZipArchive.m</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 07:54:21 +0000     4759 bytes  src/ios/minizip/crypt.h</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 07:54:21 +0000     7694 bytes  src/ios/minizip/ioapi.c</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 07:54:21 +0000     6859 bytes  src/ios/minizip/ioapi.h</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 07:54:21 +0000     8665 bytes  src/ios/minizip/mztools.c</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 07:54:21 +0000      677 bytes  src/ios/minizip/mztools.h</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 07:54:21 +0000    72000 bytes  src/ios/minizip/unzip.c</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 07:54:21 +0000    16358 bytes  src/ios/minizip/unzip.h</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 07:54:21 +0000    66574 bytes  src/ios/minizip/zip.c</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 07:54:21 +0000    15367 bytes  src/ios/minizip/zip.h</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 07:54:21 +0000    10351 bytes  src/windows/SyncProxy.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 07:54:21 +0000     3406 bytes  src/windows/ZipWinProj/PGZipInflate.cs</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 07:54:21 +0000     1078 bytes  src/windows/ZipWinProj/Properties/AssemblyInfo.c\</tspan>
+<tspan x="10" y="426">s</tspan>
+<tspan x="10" y="442"> 25.  2017-04-25 07:54:21 +0000     2727 bytes  src/windows/ZipWinProj/ZipWinProj.csproj</tspan>
+<tspan x="10" y="458"> 26.  2017-04-25 07:54:21 +0000    31926 bytes  src/wp8/Sync.cs</tspan>
+<tspan x="10" y="474"> 27.  2017-04-25 07:54:21 +0000    19108 bytes  src/wp8/Unzip.cs</tspan>
+<tspan x="10" y="490"> 28.  2017-04-25 07:54:21 +0000     7748 bytes  www/index.js</tspan>
+</text>
+</svg>
